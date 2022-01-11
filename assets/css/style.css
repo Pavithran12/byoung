@@ -198,8 +198,8 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
-  background-size: cover;
+  background: url("../img/ads/Nexon Tigor.jpeg") top center;
+  background-size: Cover;
 }
 #hero:before {
   content: "";
@@ -652,8 +652,9 @@ section {
   min-height: 320px;
 }
 .testimonials .testimonial-item .testimonial-img {
-  width: 90px;
-  border-radius: 50%;
+  width: 350px;
+  height :350px;
+  border-radius: 20px;
   margin: 0 auto;
 }
 .testimonials .testimonial-item h3 {
